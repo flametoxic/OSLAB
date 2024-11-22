@@ -8,6 +8,6 @@
 2. getEvent: метод внутри класса Monitor, который достаёт события из очереди.
 В функции main создаётся экземпляр класса Monitor, и передаётся в два потока, поток-поставщик и поток-потребитель.
 <hr>
-Код можно посмотреть тут: [исходный код](https://github.com/flametoxic/OSLAB1/monitor.cpp);
+Код можно посмотреть тут: [исходный код](https://github.com/flametoxic/OSLAB1/blob/main/monitor.cpp);
 
 
